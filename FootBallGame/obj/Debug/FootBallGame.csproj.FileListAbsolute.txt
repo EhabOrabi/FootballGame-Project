@@ -1,0 +1,9 @@
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\bin\Debug\FootBallGame.exe.config
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\bin\Debug\FootBallGame.exe
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\bin\Debug\FootBallGame.pdb
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\obj\Debug\FootBallGame.csprojResolveAssemblyReference.cache
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\obj\Debug\FootBallGame.FormGame.resources
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\obj\Debug\FootBallGame.Properties.Resources.resources
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\obj\Debug\FootBallGame.csproj.GenerateResource.Cache
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\obj\Debug\FootBallGame.exe
+C:\Users\razi\Desktop\FootBallGame\FootBallGame\obj\Debug\FootBallGame.pdb
